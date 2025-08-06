@@ -99,43 +99,4 @@ Build a regression model that accurately predicts house prices based on the foll
 ├── Outputs from different models.txt # Evaluation results
 ```
 
----
 
-## ▶️ Getting Started
-
-### 1. Clone the Repo
-```bash
-git clone https://github.com/RakshithaMH24/Real-Estate-Price-Predictor.git
-cd Real-Estate-Price-Predictor
-```
-
-### 2. Launch Notebook
-```bash
-jupyter notebook Real\ Estate-Prediction.ipynb
-```
-
----
-
-## 🛠️ Future Improvements
-
-- 🔧 Add Streamlit/Flask UI
-- 🎯 Hyperparameter tuning
-- 📦 Add more regression models (e.g., XGBoost)
-- 🌐 Deploy on web
-
----
-
-## 👩‍💻 Author
-
-**Rakshitha M H**  
-🔗 [GitHub](https://github.com/RakshithaMH24)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link) <!-- Replace with your actual link -->
-
----
-
-<div align="center">
-
-⭐ *If you found this useful, give it a star!*  
-📬 *Feedback is always welcome!*
-
-</div>
